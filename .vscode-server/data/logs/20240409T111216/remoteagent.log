@@ -1,0 +1,13 @@
+2024-04-09 11:12:16.144 [info] 
+
+
+
+
+2024-04-09 11:12:16.165 [info] Extension host agent started.
+2024-04-09 11:12:16.325 [info] [<unknown>][d12f94dc][ManagementConnection] New connection established.
+2024-04-09 11:12:16.327 [info] [<unknown>][ee14612a][ExtensionHostConnection] New connection established.
+2024-04-09 11:12:16.465 [info] Deleted uninstalled extension from disk github.vscode-pull-request-github /home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.86.0
+2024-04-09 11:12:18.014 [info] [<unknown>][ee14612a][ExtensionHostConnection] <2781> Launched Extension Host Process.
+2024-04-09 11:13:55.268 [info] [<unknown>][9d8dfc7c][ManagementConnection] New connection established.
+2024-04-09 11:13:55.287 [info] [<unknown>][59dcb137][ExtensionHostConnection] New connection established.
+2024-04-09 11:13:55.293 [info] [<unknown>][59dcb137][ExtensionHostConnection] <3555> Launched Extension Host Process.

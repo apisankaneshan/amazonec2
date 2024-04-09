@@ -1,0 +1,112 @@
+2024-04-07 15:46:44.372 [info] Log level: Info
+2024-04-07 15:46:44.372 [info] Validating found git in: "git"
+2024-04-07 15:46:44.372 [info] Using git "2.40.1" from "git"
+2024-04-07 15:46:44.372 [info] > git rev-parse --show-toplevel [200ms]
+2024-04-07 15:46:44.372 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-04-07 15:46:44.372 [info] Open repository: /home/ec2-user/Lab5/coe692
+2024-04-07 15:46:44.428 [info] > git config --get commit.template [482ms]
+2024-04-07 15:46:44.707 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [206ms]
+2024-04-07 15:46:44.720 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 15:46:44.725 [info] > git fetch [821ms]
+2024-04-07 15:46:44.725 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/apisankaneshan/coe692.git/'
+2024-04-07 15:46:45.098 [info] > git rev-parse refs/remotes/origin/main [378ms]
+2024-04-07 15:46:45.116 [info] > git check-ignore -v -z --stdin [9ms]
+2024-04-07 15:46:45.117 [info] > git config --get commit.template [20ms]
+2024-04-07 15:46:45.120 [info] > git config --get commit.template [6ms]
+2024-04-07 15:46:45.131 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-04-07 15:46:45.136 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 15:46:45.137 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-04-07 15:46:45.142 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 15:46:45.142 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2024-04-07 15:46:45.146 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-04-07 15:46:45.460 [info] > git status -z -uall [306ms]
+2024-04-07 15:46:45.510 [info] > git merge-base refs/heads/main refs/remotes/origin/main [25ms]
+2024-04-07 15:46:45.529 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [4ms]
+2024-04-07 15:46:45.853 [info] > git diff --name-status -z --diff-filter=ADMR 3920a1368630fd547b1edf7e5712caa61a70f025...refs/remotes/origin/main [318ms]
+2024-04-07 15:46:46.702 [info] > git config --local branch.main.github-pr-owner-number [221ms]
+2024-04-07 15:46:46.702 [warning] git config failed: Failed to execute git
+2024-04-07 15:48:14.621 [info] > git check-ignore -v -z --stdin [3ms]
+2024-04-07 15:48:15.601 [info] > git config --get commit.template [7ms]
+2024-04-07 15:48:15.603 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-04-07 15:48:15.606 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 15:48:15.608 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 15:48:15.706 [info] > git status -z -uall [93ms]
+2024-04-07 15:48:18.884 [info] > git check-ignore -v -z --stdin [3ms]
+2024-04-07 15:48:32.924 [info] > git check-ignore -v -z --stdin [3ms]
+2024-04-07 15:51:18.077 [info] > git config --get commit.template [6ms]
+2024-04-07 15:51:18.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-04-07 15:51:18.082 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 15:51:18.085 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-04-07 15:51:18.179 [info] > git status -z -uall [91ms]
+2024-04-07 15:51:45.935 [info] > git config --local branch.main.github-pr-owner-number [3ms]
+2024-04-07 15:51:45.935 [warning] git config failed: Failed to execute git
+2024-04-07 15:56:45.943 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-04-07 15:56:45.943 [warning] git config failed: Failed to execute git
+2024-04-07 16:00:57.299 [info] > git config --get commit.template [22ms]
+2024-04-07 16:00:57.319 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-07 16:00:57.333 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:00:57.337 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-04-07 16:00:57.692 [info] > git status -z -uall [339ms]
+2024-04-07 16:01:02.751 [info] > git config --get commit.template [5ms]
+2024-04-07 16:01:02.753 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-04-07 16:01:02.756 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:01:02.758 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:01:02.855 [info] > git status -z -uall [94ms]
+2024-04-07 16:01:45.953 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-04-07 16:01:45.953 [warning] git config failed: Failed to execute git
+2024-04-07 16:03:27.779 [info] > git config --get commit.template [6ms]
+2024-04-07 16:03:27.780 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-04-07 16:03:27.784 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:03:27.786 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:03:27.888 [info] > git status -z -uall [99ms]
+2024-04-07 16:03:32.916 [info] > git config --get commit.template [6ms]
+2024-04-07 16:03:32.918 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-04-07 16:03:32.921 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:03:32.923 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:03:33.016 [info] > git status -z -uall [90ms]
+2024-04-07 16:03:52.921 [info] > git config --get commit.template [5ms]
+2024-04-07 16:03:52.923 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-04-07 16:03:52.927 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:03:52.929 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:03:53.030 [info] > git status -z -uall [98ms]
+2024-04-07 16:03:58.053 [info] > git config --get commit.template [5ms]
+2024-04-07 16:03:58.055 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-04-07 16:03:58.059 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:03:58.060 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:03:58.156 [info] > git status -z -uall [91ms]
+2024-04-07 16:04:03.952 [info] > git check-ignore -v -z --stdin [2ms]
+2024-04-07 16:04:13.616 [info] > git check-ignore -v -z --stdin [3ms]
+2024-04-07 16:04:15.558 [info] > git check-ignore -v -z --stdin [2ms]
+2024-04-07 16:05:14.024 [info] > git config --get commit.template [6ms]
+2024-04-07 16:05:14.027 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-04-07 16:05:14.030 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:05:14.032 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:05:14.130 [info] > git status -z -uall [95ms]
+2024-04-07 16:06:45.961 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-04-07 16:06:45.961 [warning] git config failed: Failed to execute git
+2024-04-07 16:08:13.838 [info] > git config --get commit.template [6ms]
+2024-04-07 16:08:13.840 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-04-07 16:08:13.843 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:08:13.845 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:08:13.949 [info] > git status -z -uall [101ms]
+2024-04-07 16:08:14.661 [info] > git check-ignore -v -z --stdin [3ms]
+2024-04-07 16:08:18.977 [info] > git config --get commit.template [5ms]
+2024-04-07 16:08:18.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-04-07 16:08:18.982 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:08:18.983 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-04-07 16:08:19.083 [info] > git status -z -uall [96ms]
+2024-04-07 16:08:38.533 [info] > git config --get commit.template [6ms]
+2024-04-07 16:08:38.535 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-04-07 16:08:38.538 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:08:38.540 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:08:38.638 [info] > git status -z -uall [95ms]
+2024-04-07 16:08:48.427 [info] > git config --get commit.template [7ms]
+2024-04-07 16:08:48.429 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-04-07 16:08:48.433 [warning] ENOENT: no such file or directory, open '/home/ec2-user/Lab5/coe692/.git/refs/remotes/origin/main'
+2024-04-07 16:08:48.436 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 16:08:48.532 [info] > git status -z -uall [93ms]

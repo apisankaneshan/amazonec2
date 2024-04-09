@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "code-runner.runInTerminal": true,
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "editor.detectIndentation": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\Eric\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "remote.SSH.remotePlatform": {
+        "ec2-3-98-123-124.ca-central-1.compute.amazonaws.com": "linux"
+    }
+}

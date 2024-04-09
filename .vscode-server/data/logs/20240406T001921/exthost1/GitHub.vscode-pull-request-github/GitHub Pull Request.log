@@ -1,0 +1,13 @@
+2024-04-06 00:19:38.126 [warning] /home/ec2-user/.ssh/config: ENOENT: no such file or directory, open '/home/ec2-user/.ssh/config'
+2024-04-06 00:19:38.126 [info] Activation> Extension version: 0.82.1
+2024-04-06 00:19:39.123 [info] Looking for git repository
+2024-04-06 00:19:39.123 [info] Found 0 repositories during activation
+2024-04-06 00:19:39.123 [info] Git repository found, initializing review manager and pr tree view.
+2024-04-06 00:19:39.143 [info] Registering git provider
+2024-04-06 00:19:39.143 [info] Review+0> Validate state in progress
+2024-04-06 00:19:39.143 [info] Review+0> Validating state...
+2024-04-06 00:19:39.191 [info] Found GitHub remote for folder /home/ec2-user/barApp
+2024-04-06 00:19:39.518 [info] Trying to use globalState for assignableUsers.
+2024-04-06 00:19:40.384 [info] Review+0> No matching pull request metadata found locally for current branch aptesting
+2024-04-06 00:19:40.554 [info] Review+0> No matching pull request metadata found on GitHub for current branch aptesting
+2024-04-06 00:19:40.598 [info] Using globalState assignableUsers for 1.

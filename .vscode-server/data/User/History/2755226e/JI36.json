@@ -1,0 +1,21 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\apisa\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "netbeans.javaSupport.enabled": false,
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\apisa\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\apisa\\downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\apisa\\Oracle\\network\\admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\apisa\\Oracle\\network\\admin",
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay",
+    "remote.SSH.remotePlatform": {
+        "ec2-15-156-160-96.ca-central-1.compute.amazonaws.com": "linux"
+    }
+}

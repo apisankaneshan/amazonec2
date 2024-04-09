@@ -1,0 +1,10 @@
+2024-04-09 11:46:41.922 [info] 
+
+
+
+
+2024-04-09 11:46:41.941 [info] Extension host agent started.
+2024-04-09 11:46:42.055 [info] [<unknown>][d2cb6039][ManagementConnection] New connection established.
+2024-04-09 11:46:42.073 [info] [<unknown>][8772fc2e][ExtensionHostConnection] New connection established.
+2024-04-09 11:46:44.057 [info] [<unknown>][8772fc2e][ExtensionHostConnection] <2777> Launched Extension Host Process.
+2024-04-09 11:51:41.943 [info] New EH opened, aborting shutdown

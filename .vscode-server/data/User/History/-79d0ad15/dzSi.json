@@ -1,0 +1,12 @@
+{
+  "name": "pythonstreamingservice",
+  "version": "1.0.0",
+  "description": "steaming from raspberrypi to server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": 
+  },
+  "author": "Eric & Apisan",
+  "license": "ISC"
+}

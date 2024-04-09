@@ -1,0 +1,39 @@
+2024-04-06 00:19:31.414 [info] Log level: Info
+2024-04-06 00:19:31.414 [info] Validating found git in: "git"
+2024-04-06 00:19:31.414 [info] Using git "2.40.1" from "git"
+2024-04-06 00:19:31.414 [info] > git rev-parse --show-toplevel [984ms]
+2024-04-06 00:19:31.414 [info] > git rev-parse --git-dir --git-common-dir [26ms]
+2024-04-06 00:19:31.414 [info] Open repository: /home/ec2-user/barApp
+2024-04-06 00:19:31.414 [info] > git config --get commit.template [483ms]
+2024-04-06 00:19:31.414 [info] > git rev-parse --show-toplevel [515ms]
+2024-04-06 00:19:31.414 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/aptesting refs/remotes/aptesting [69ms]
+2024-04-06 00:19:31.415 [info] > git rev-parse --show-toplevel [173ms]
+2024-04-06 00:19:31.497 [info] > git rev-parse --show-toplevel [22ms]
+2024-04-06 00:19:31.610 [info] > git status -z -uall [268ms]
+2024-04-06 00:19:32.083 [info] > git rev-parse --show-toplevel [522ms]
+2024-04-06 00:19:34.601 [info] > git check-ignore -v -z --stdin [146ms]
+2024-04-06 00:19:34.602 [info] > git fetch [4140ms]
+2024-04-06 00:19:34.602 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/apisankaneshan/barApp.git/'
+2024-04-06 00:19:34.682 [info] > git config --get commit.template [178ms]
+2024-04-06 00:19:34.746 [info] > git config --get commit.template [73ms]
+2024-04-06 00:19:34.800 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/aptesting refs/remotes/aptesting [57ms]
+2024-04-06 00:19:34.811 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/aptesting refs/remotes/aptesting [39ms]
+2024-04-06 00:19:36.114 [info] > git status -z -uall [1283ms]
+2024-04-06 00:19:36.114 [info] > git check-ignore -v -z --stdin [390ms]
+2024-04-06 00:19:38.049 [info] > git show --textconv :src/index.js [39ms]
+2024-04-06 00:19:38.049 [info] > git ls-files --stage -- /home/ec2-user/barApp/src/index.js [26ms]
+2024-04-06 00:19:38.102 [info] > git cat-file -s 387bc1ba2d2e425083f3609b467484513983794b [18ms]
+2024-04-06 00:19:38.982 [info] > git ls-files --stage -- /home/ec2-user/barApp/src/index.js [44ms]
+2024-04-06 00:19:39.040 [info] > git cat-file -s 387bc1ba2d2e425083f3609b467484513983794b [42ms]
+2024-04-06 00:19:39.153 [info] > git show --textconv :src/index.js [61ms]
+2024-04-06 00:19:40.368 [info] > git config --local branch.aptesting.github-pr-owner-number [791ms]
+2024-04-06 00:19:40.368 [warning] git config failed: Failed to execute git
+2024-04-06 00:19:40.389 [info] > git config --local branch.aptesting.remote [5ms]
+2024-04-06 00:19:40.389 [warning] git config failed: Failed to execute git
+2024-04-06 00:19:40.553 [info] > git config --local branch.aptesting.merge [157ms]
+2024-04-06 00:19:40.553 [warning] git config failed: Failed to execute git

@@ -1,0 +1,6 @@
+2024-04-06 00:11:20.412 [warning] /home/ec2-user/.ssh/config: ENOENT: no such file or directory, open '/home/ec2-user/.ssh/config'
+2024-04-06 00:11:20.412 [info] Activation> Extension version: 0.82.1
+2024-04-06 00:11:21.049 [info] Looking for git repository
+2024-04-06 00:11:21.049 [info] Found 0 repositories during activation
+2024-04-06 00:11:21.049 [info] Git repository found, initializing review manager and pr tree view.
+2024-04-06 00:11:21.054 [info] Registering git provider

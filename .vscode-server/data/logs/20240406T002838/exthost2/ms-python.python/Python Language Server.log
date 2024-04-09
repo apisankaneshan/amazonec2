@@ -1,0 +1,6 @@
+2024-04-06 00:39:48.237 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.0)
+2024-04-06 00:39:50.443 [info] [Info  - 12:39:50 AM] (4634) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-06 00:39:50.445 [info] [Info  - 12:39:50 AM] (4634) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-06 00:39:50.445 [info] [Info  - 12:39:50 AM] (4634) Starting service instance "PythonStreamingService"
+2024-04-06 00:39:50.620 [info] [Info  - 12:39:50 AM] (4634) Setting environmentName for service "PythonStreamingService": "C:\Users\apisa\AppData\Local\Programs\Python\Python312\python.exe"
+2024-04-06 00:39:51.082 [info] [Info  - 12:39:51 AM] (4634) Found 2 source files

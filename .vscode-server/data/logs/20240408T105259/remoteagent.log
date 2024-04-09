@@ -1,0 +1,28 @@
+2024-04-08 10:52:59.576 [info] 
+
+
+
+
+2024-04-08 10:52:59.595 [info] Extension host agent started.
+2024-04-08 10:53:00.201 [info] [<unknown>][c4cbfd27][ExtensionHostConnection] New connection established.
+2024-04-08 10:53:00.202 [info] [<unknown>][175a504b][ManagementConnection] New connection established.
+2024-04-08 10:53:01.314 [info] [<unknown>][c4cbfd27][ExtensionHostConnection] <2789> Launched Extension Host Process.
+2024-04-08 10:53:14.852 [info] [<unknown>][7fbaea48][ExtensionHostConnection] New connection established.
+2024-04-08 10:53:14.859 [info] [<unknown>][7fbaea48][ExtensionHostConnection] <3150> Launched Extension Host Process.
+2024-04-08 10:53:14.925 [info] [<unknown>][5312a594][ManagementConnection] New connection established.
+2024-04-08 10:57:59.599 [info] New EH opened, aborting shutdown
+2024-04-08 10:57:59.600 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/cli/servers/Stable-5c3e652f63e798a5ac2f31ffd0d863669328dc4c/server/out/vs/server/node/server.main.js:191:6058)
+    at process.emit (node:events:517:28)
+2024-04-08 10:58:15.035 [info] [<unknown>][c4cbfd27][ExtensionHostConnection] <2789> Extension Host Process exited with code: 0, signal: null.
+2024-04-08 11:08:01.392 [info] [<unknown>][a9c4a02c][ExtensionHostConnection] New connection established.
+2024-04-08 11:08:01.394 [info] [<unknown>][97435160][ManagementConnection] New connection established.
+2024-04-08 11:08:01.401 [info] [<unknown>][a9c4a02c][ExtensionHostConnection] <5790> Launched Extension Host Process.
+2024-04-08 11:08:06.299 [info] Getting Manifest... github.vscode-pull-request-github
+2024-04-08 11:08:06.407 [info] Installing extension: github.vscode-pull-request-github
+2024-04-08 11:08:08.708 [info] Extension signature is verified: github.vscode-pull-request-github
+2024-04-08 11:08:08.925 [info] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.86.1: github.vscode-pull-request-github
+2024-04-08 11:08:08.932 [info] Renamed to /home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.86.1
+2024-04-08 11:08:08.942 [info] Extracting extension completed. github.vscode-pull-request-github
+2024-04-08 11:08:08.950 [info] Extension installed successfully: github.vscode-pull-request-github
+2024-04-08 11:08:08.984 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.86.0

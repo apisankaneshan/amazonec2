@@ -1,0 +1,37 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:34023 (IPv4)
+Extension host agent listening on 34023
+
+[00:19:21] 
+
+
+
+
+[00:19:21] Extension host agent started.
+[00:19:22] [127.0.0.1][1a927de8][ManagementConnection] New connection established.
+[00:19:22] [127.0.0.1][7440e310][ExtensionHostConnection] New connection established.
+[00:19:23] [127.0.0.1][7440e310][ExtensionHostConnection] <2883> Launched Extension Host Process.
+[00:19:30] Getting Manifest... github.vscode-pull-request-github
+[00:19:30] Installing extension: github.vscode-pull-request-github
+[00:19:39] Extension signature is verified: github.vscode-pull-request-github
+[00:19:40] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.86.0: github.vscode-pull-request-github
+[00:19:40] Renamed to /home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.86.0
+[00:19:40] Extracting extension completed. github.vscode-pull-request-github
+[00:19:40] Extension installed successfully: github.vscode-pull-request-github
+[00:19:40] Marked extension as uninstalled github.vscode-pull-request-github-0.82.1
+[00:19:48] [127.0.0.1][1a927de8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:19:48] [127.0.0.1][7440e310][ExtensionHostConnection] <2883> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[00:19:48] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[00:19:48] Last EH closed, waiting before shutting down
+[00:22:39] No ptyHost heartbeat after 6 seconds
+[00:23:11] No ptyHost heartbeat after 6 seconds
+Last EH closed, shutting down
+[00:25:17] Last EH closed, shutting down

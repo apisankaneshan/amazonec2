@@ -1,0 +1,17 @@
+2024-04-06 00:11:20.978 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.0)
+2024-04-06 00:11:22.012 [info] [Info  - 12:11:21 AM] (4048) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-06 00:11:22.109 [info] [Info  - 12:11:22 AM] (4048) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-06 00:11:22.109 [info] [Info  - 12:11:22 AM] (4048) Starting service instance "PythonStreamingService"
+2024-04-06 00:11:22.315 [info] [Info  - 12:11:22 AM] (4048) Setting environmentName for service "PythonStreamingService": "C:\Users\apisa\AppData\Local\Programs\Python\Python312\python.exe"
+2024-04-06 00:11:22.735 [info] [Info  - 12:11:22 AM] (4048) Found 2 source files
+2024-04-06 00:11:23.993 [info] [Info  - 12:11:23 AM] (4048) Background analysis(1) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-06 00:11:23.993 [info] [Info  - 12:11:23 AM] (4048) Background analysis(1) started
+2024-04-06 00:11:25.034 [info] [Info  - 12:11:25 AM] (4048) Indexer background runner(2) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-06 00:11:25.034 [info] [Info  - 12:11:25 AM] (4048) Indexing(2) started
+2024-04-06 00:11:26.733 [info] [Info  - 12:11:26 AM] (4048) [BG(1)] Long operation: analyzing: file:///home/ec2-user/PythonStreamingService/server.py (2422ms)
+2024-04-06 00:11:29.535 [info] [Info  - 12:11:29 AM] (4048) [BG(1)] Long operation: parsing: file:///home/ec2-user/PythonStreamingService/get-pip.py (2673ms)
+2024-04-06 00:11:29.569 [info] [Info  - 12:11:29 AM] (4048) [BG(1)] Long operation: indexing: file:///home/ec2-user/PythonStreamingService/get-pip.py (2721ms)
+2024-04-06 00:11:30.487 [info] [Info  - 12:11:30 AM] (4048) [IDX(2)] Long operation: scan packages file:///home/ec2-user/PythonStreamingService (5365ms)
+2024-04-06 00:11:30.488 [info] [Info  - 12:11:30 AM] (4048) scanned(2) 58 files over 1 exec env
+2024-04-06 00:11:33.120 [info] [Info  - 12:11:33 AM] (4048) indexed(2) 34 files over 1 exec env
+2024-04-06 00:11:33.534 [info] [Info  - 12:11:33 AM] (4048) Indexing finished(2).

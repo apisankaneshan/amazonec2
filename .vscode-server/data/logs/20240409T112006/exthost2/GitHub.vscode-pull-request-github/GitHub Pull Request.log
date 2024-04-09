@@ -1,0 +1,15 @@
+2024-04-09 11:20:46.209 [warning] /home/ec2-user/.ssh/config: ENOENT: no such file or directory, open '/home/ec2-user/.ssh/config'
+2024-04-09 11:20:46.209 [info] Activation> Extension version: 0.86.1
+2024-04-09 11:20:46.924 [info] Looking for git repository
+2024-04-09 11:20:46.924 [info] Found 0 repositories during activation
+2024-04-09 11:20:46.924 [info] Git repository found, initializing review manager and pr tree view.
+2024-04-09 11:20:46.967 [info] Registering git provider
+2024-04-09 11:20:46.967 [info] Review+0> Validate state in progress
+2024-04-09 11:20:46.967 [info] Review+0> Validating state...
+2024-04-09 11:20:47.263 [info] Repo state for file:///home/ec2-user/StreamingService changed.
+2024-04-09 11:20:47.263 [info] Repo file:///home/ec2-user/StreamingService has already been setup.
+2024-04-09 11:20:48.301 [info] Found GitHub remote for folder /home/ec2-user/StreamingService
+2024-04-09 11:20:49.042 [info] Trying to use globalState for assignableUsers.
+2024-04-09 11:20:49.745 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-04-09 11:20:49.973 [info] Using globalState assignableUsers for 1.
+2024-04-09 11:20:50.229 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

@@ -1,0 +1,10 @@
+2024-04-06 00:11:31.332 [info] Extension host with pid 4421 started
+2024-04-06 00:11:31.332 [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/3f79846834bcff310723f660c99dcae3/vscode.lock'
+2024-04-06 00:11:31.367 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/3f79846834bcff310723f660c99dcae3/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-04-06 00:11:31.375 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/3f79846834bcff310723f660c99dcae3/vscode.lock': The pid 5974 appears to be gone.
+2024-04-06 00:11:31.375 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/3f79846834bcff310723f660c99dcae3/vscode.lock': Deleting a stale lock.
+2024-04-06 00:11:31.410 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/3f79846834bcff310723f660c99dcae3/vscode.lock': Lock acquired.
+2024-04-06 00:11:32.975 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-04-06 00:11:32.978 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-06 00:11:33.980 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-06 00:11:33.996 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'

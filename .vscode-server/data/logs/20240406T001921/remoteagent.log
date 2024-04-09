@@ -1,0 +1,24 @@
+2024-04-06 00:19:21.906 [info] 
+
+
+
+
+2024-04-06 00:19:21.921 [info] Extension host agent started.
+2024-04-06 00:19:22.057 [info] [127.0.0.1][1a927de8][ManagementConnection] New connection established.
+2024-04-06 00:19:22.128 [info] [127.0.0.1][7440e310][ExtensionHostConnection] New connection established.
+2024-04-06 00:19:23.852 [info] [127.0.0.1][7440e310][ExtensionHostConnection] <2883> Launched Extension Host Process.
+2024-04-06 00:19:30.733 [info] Getting Manifest... github.vscode-pull-request-github
+2024-04-06 00:19:30.925 [info] Installing extension: github.vscode-pull-request-github
+2024-04-06 00:19:39.657 [info] Extension signature is verified: github.vscode-pull-request-github
+2024-04-06 00:19:40.115 [info] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.86.0: github.vscode-pull-request-github
+2024-04-06 00:19:40.128 [info] Renamed to /home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.86.0
+2024-04-06 00:19:40.151 [info] Extracting extension completed. github.vscode-pull-request-github
+2024-04-06 00:19:40.164 [info] Extension installed successfully: github.vscode-pull-request-github
+2024-04-06 00:19:40.208 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.82.1
+2024-04-06 00:19:48.717 [info] [127.0.0.1][1a927de8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-06 00:19:48.806 [info] [127.0.0.1][7440e310][ExtensionHostConnection] <2883> Extension Host Process exited with code: 0, signal: null.
+2024-04-06 00:19:48.807 [info] Cancelling previous shutdown timeout
+2024-04-06 00:19:48.807 [info] Last EH closed, waiting before shutting down
+2024-04-06 00:22:36.213 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-06 00:23:09.936 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-06 00:25:16.495 [info] Last EH closed, shutting down

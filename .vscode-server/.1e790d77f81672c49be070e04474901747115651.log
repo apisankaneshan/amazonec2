@@ -1,0 +1,25 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:44649 (IPv4)
+Extension host agent listening on 44649
+
+[20:28:08] 
+
+
+
+
+[20:28:08] Extension host agent started.
+[20:28:08] [127.0.0.1][b6772e42][ManagementConnection] New connection established.
+[20:28:08] [127.0.0.1][1eae6468][ExtensionHostConnection] New connection established.
+[20:28:12] [127.0.0.1][1eae6468][ExtensionHostConnection] <2906> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[20:33:08] New EH opened, aborting shutdown
+[00:07:55] [127.0.0.1][b6772e42][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:07:56] [127.0.0.1][1eae6468][ExtensionHostConnection] <2906> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[00:07:56] Last EH closed, waiting before shutting down

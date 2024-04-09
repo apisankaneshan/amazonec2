@@ -1,0 +1,25 @@
+{
+  "name": "streamingservice",
+  "version": "1.0.0",
+  "description": "Live streaming video microservice",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queueviewDevs/StreamingService.git"
+  },
+  "author": "Eric Muzzo, Apisan Kaneshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/queueviewDevs/StreamingService/issues"
+  },
+  "homepage": "https://github.com/queueviewDevs/StreamingService#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.0",
+    "ws": "^8.16.0"
+  }
+}

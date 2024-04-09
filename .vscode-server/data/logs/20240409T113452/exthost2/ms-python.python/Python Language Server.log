@@ -1,0 +1,13 @@
+2024-04-09 11:35:12.793 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.0)
+2024-04-09 11:35:14.567 [info] [Info  - 11:35:14 AM] (3953) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-09 11:35:14.662 [info] [Info  - 11:35:14 AM] (3953) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-09 11:35:14.662 [info] [Info  - 11:35:14 AM] (3953) Starting service instance "PythonStreamingService"
+2024-04-09 11:35:14.821 [info] [Info  - 11:35:14 AM] (3953) Setting pythonPath for service "PythonStreamingService": "/bin/python3"
+2024-04-09 11:35:14.830 [info] [Info  - 11:35:14 AM] (3953) Setting environmentName for service "PythonStreamingService": "3.9.16 (global)"
+2024-04-09 11:35:14.960 [info] [Info  - 11:35:14 AM] (3953) Assuming Python version 3.9.16.final.0
+2024-04-09 11:35:15.231 [info] [Info  - 11:35:15 AM] (3953) Found 2 source files
+2024-04-09 11:35:17.063 [info] [Info  - 11:35:17 AM] (3953) Background analysis(1) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-09 11:35:17.071 [info] [Info  - 11:35:17 AM] (3953) Background analysis(1) started
+2024-04-09 11:35:18.258 [info] [Info  - 11:35:18 AM] (3953) Indexer background runner(2) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-09 11:35:18.258 [info] [Info  - 11:35:18 AM] (3953) Indexing(2) started
+2024-04-09 11:35:20.538 [info] [Info  - 11:35:20 AM] (3953) [BG(1)] Long operation: analyzing: file:///home/ec2-user/PythonStreamingService/server.py (3083ms)

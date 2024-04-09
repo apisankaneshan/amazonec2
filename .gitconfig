@@ -1,0 +1,5 @@
+[safe]
+	directory = /home/ec2-user/barApp
+[user]
+	name = queueviewDevs
+	email = intentions2002@gmail.com

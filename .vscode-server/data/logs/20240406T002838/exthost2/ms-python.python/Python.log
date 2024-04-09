@@ -1,0 +1,24 @@
+2024-04-06 00:39:47.371 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-06 00:39:47.371 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-06 00:39:47.371 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-06 00:39:47.371 [info] Experiment 'pythonTestAdapter' is active
+2024-04-06 00:39:47.371 [info] Default formatter is set to null for workspace /home/ec2-user/PythonStreamingService
+2024-04-06 00:39:47.371 [info] Test server listening.
+2024-04-06 00:39:47.393 [info] > C:\Users\apisa\AppData\Local\Programs\Python\Python312\python.exe -c "import sys;print(sys.executable)"
+2024-04-06 00:39:47.472 [error] [Error: Command failed: C:\Users\apisa\AppData\Local\Programs\Python\Python312\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: line 1: C:UsersapisaAppDataLocalProgramsPythonPython312python.exe: command not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\apisa\\AppData\\Local\\Programs\\Python\\Python312\\python.exe -c "import sys;print(sys.executable)"'
+}
+2024-04-06 00:39:47.487 [info] > pyenv which python
+2024-04-06 00:39:47.487 [info] cwd: .
+2024-04-06 00:39:50.503 [info] Starting Pylance language server.
